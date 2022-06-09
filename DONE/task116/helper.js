@@ -1,0 +1,1 @@
+export const strings = ['cat', 'dog', 'man', 'woman', 'chair'];
